@@ -1,0 +1,89 @@
+﻿body {
+	font-family:Arial,Helvetica,sans-serif;
+	background-color:#EEEEEE;
+	height:100%;
+	width:1000px;
+	margin:auto;
+	text-align:left;
+}
+header {
+	background-color:white;
+	color:black;
+	background-image:url("images/IWA.jpg");
+	background-repeat:no-repeat;
+	padding:5px;
+	height:100px;
+	text-align:right;
+}
+
+footer {
+	clear:both;
+	text-align:center;
+}
+
+table {
+	margin-top:5px;
+	border-bottom:1pt solid #B22222;
+	border-top:1pt solid #B22222;
+	border-collapse:collapse;
+	border-spacing:0;
+	width:100%;
+}
+
+th {
+	background-color:#DDDDDD;
+	border-bottom:1pt solid #CCCCCC;
+	text-align:left;
+}
+
+td {
+	border-bottom:1pt dotted #CCCCCC;
+	padding:2px;
+}
+
+a {
+	text-decoration:none;
+	color:black;
+	padding-left:5px;
+	padding-right:5px;
+	font-weight:bold;
+}
+
+.greska {
+	font-weight:bolder;
+	color:red;
+}
+
+.menu {
+	background-color:#B22222;
+	padding:3px;
+	text-align:center;
+}
+
+.aktivna {
+	color:blue;
+	font-weight:bold;
+}
+
+.lijevi {
+	width:20%;
+}
+a:hover {
+	color:blue;
+}
+
+tr:hover {
+	background-color:white;
+}
+.menu a {
+	font-weight:bold;
+}
+
+.menu a:hover {
+	text-decoration:underline;
+}
+
+
+
+
+
