@@ -6,8 +6,10 @@ Hello to everyone, my name is Domagoj Licitar and I study in center Sisak IT, it
 
 ![pocetna_stranica](https://user-images.githubusercontent.com/75831354/107766739-33d11700-6d34-11eb-8402-276be4c4997e.png)
 
-<p> Na toj početnoj stranici vidljive su sve korištene skripte za taj projekt, kao i zaglavlje i podnožje gdje se nalazi navigacija do pojedine stranice</p><br>
+<p> Na toj početnoj stranici vidljive su sve korištene skripte za taj projekt, kao i zaglavlje i podnožje gdje se nalazi navigacija do pojedine stranice.</p><br>
 
 <h2>Jedan od obrazaca za registraciju postojećeg korisnika u ovom slučaju Administratora web stranice</h2>
 
 ![Obrazac2](https://user-images.githubusercontent.com/75831354/107767501-4a2ba280-6d35-11eb-866c-bdb4f732bd10.png)
+
+<p>Slika prikazuje obrazac za unos imena i lozinke administratora ili nekog drugog korisnika koji se nalazi u SQL bazi podataka, te se osim administratora pojavljuju i registrirani korisnici te moderator web stranice.</p>
