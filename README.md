@@ -12,4 +12,10 @@ Hello to everyone, my name is Domagoj Licitar and I study in center Sisak IT, it
 
 ![Obrazac2](https://user-images.githubusercontent.com/75831354/107767501-4a2ba280-6d35-11eb-866c-bdb4f732bd10.png)
 
-<p>Slika prikazuje obrazac za unos imena i lozinke administratora ili nekog drugog korisnika koji se nalazi u SQL bazi podataka, te se osim administratora pojavljuju i registrirani korisnici te moderator web stranice.</p>
+<p>Slika prikazuje obrazac za unos imena i lozinke administratora ili nekog drugog korisnika koji se nalazi u SQL bazi podataka, te se osim administratora pojavljuju i registrirani korisnici te moderator web stranice.</p><br>
+
+<h2>Prijava kao administrator</h2>
+
+![administrator](https://user-images.githubusercontent.com/75831354/107768166-55cb9900-6d36-11eb-85f9-284fa284b0ce.png)
+
+<p>Ova slika pokazuje što sve vidi administrator kad se prijavi u sustav, kao i sve njegove funkcionalnosti. Vidljivo je da se navigacija u zaglavlju proširuje te su otvorene nove stranice za dodavanje korisnika, brisanje, dodavanje partnera, automobila na parkiralište putem registracije automobila i brojne druge funkcionalnosti. Trenutno se nalazimo na stranici koja pokazuje sve registrirane korisnike sustava kao i njihove tipove.</p>
